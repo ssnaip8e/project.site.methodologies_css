@@ -1,0 +1,8 @@
+
+@media (max-width: 768px) {
+  .nav--tablet {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+}

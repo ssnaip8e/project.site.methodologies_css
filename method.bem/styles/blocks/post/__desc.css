@@ -1,0 +1,5 @@
+
+.post__desc {
+  margin: 1rem 0;
+  font-size: clamp(1rem, 5vw, 1.5rem);
+}

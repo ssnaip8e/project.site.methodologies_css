@@ -1,0 +1,7 @@
+
+@media (max-width: 425px) {
+  .header--mobile {
+    padding: 1.5rem;
+    background-color: #e2b8e8;
+  }
+}
